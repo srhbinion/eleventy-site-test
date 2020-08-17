@@ -1,0 +1,18 @@
+{
+  "name": "eleventy-site-test",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {},
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "keywords": [],
+  "author": "Sarah Binion",
+  "license": ""
+}
